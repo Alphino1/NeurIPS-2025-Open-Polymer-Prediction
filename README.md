@@ -39,3 +39,26 @@ For reference:
 ├── .gitignore
 ├── LICENSE
 └── README.md
+
+
+```
+📌 Notes
+
+
+It reflects in progress work contributed by our team for learning and research.
+
+
+It will continue to evolve as the project progresses.
+
+
+
+
+## [License](LICENSE)
+
+This repository is licensed under the [MIT License](LICENSE).
+
+---
+
+## Acknowledgments
+
+We gratefully acknowledge the [NeurIPS 2025](https://neurips.cc/) Competition Track organizers for hosting the Open Polymer Prediction Challenge and creating a platform to engage with real-world challenges in materials science and data driven discovery.
